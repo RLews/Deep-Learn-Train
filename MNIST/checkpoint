@@ -1,0 +1,2 @@
+model_checkpoint_path: "itrain_cnn_net.ckpt"
+all_model_checkpoint_paths: "itrain_cnn_net.ckpt"
